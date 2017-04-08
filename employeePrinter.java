@@ -1,5 +1,9 @@
 	import java.io.*;
-
+/**
+ * Printer class for employee's to print their payslip copies.
+ * @author Tanner Koolstra
+ *
+ */
 public class employeePrinter {
 
 	    public static void main(String[] args) 
